@@ -9,6 +9,10 @@ namespace Task_1
         {
             Console.OutputEncoding = Encoding.UTF8;
             Console.WriteLine("Привіт, ДонНУ!");
+
+            string b = Console.ReadLine();
+            Console.OutputEncoding = Encoding.UTF8;
+            Console.WriteLine(b);
         }
     }
 }
