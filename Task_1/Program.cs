@@ -8,7 +8,7 @@ namespace Task_1
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
-            Console.WriteLine("Привіт, ДонНУ!");
+            Console.WriteLine("Привіт, ДонНУ !");
 
             string b = Console.ReadLine();
             Console.OutputEncoding = Encoding.UTF8;
